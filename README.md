@@ -1,1 +1,1 @@
-# kw-quote
+# Kanye West Random Quotes
