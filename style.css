@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(35, 35, 35, 0.732);
+}
+
+.card__container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    background-color: rgb(172, 94, 245);
+    padding: 2rem;
+    background-image: url("https://nekos.best/api/v2/husbando/0140.png");
+    background-size: cover;
+}
+
+.card__container>h1{
+    margin: 2rem auto 4rem auto;
+    color: white;
+    font-size: 4em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.card__card{
+    max-width: 30vw;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    background-color: rgba(255, 255, 255, 0.478);
+    border-radius: 2rem;
+    border: none;
+}
+
+.card__card h3{
+    font-size: 2rem;
+    font-weight: 700;
+}
