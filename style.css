@@ -13,7 +13,7 @@ body{
     height: 100vh;
     align-items: center;
     background-color: rgb(172, 94, 245);
-    padding: 2rem;
+    padding: 1.8rem;
     background-image: url("https://nekos.best/api/v2/husbando/0140.png");
     background-size: cover;
 }
